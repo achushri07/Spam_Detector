@@ -3,7 +3,7 @@ An intelligent web application that uses Natural Language Processing (NLP) to cl
 
 ---
 
-🚀 Features
+# 🚀 Features
 Real-time Classification: Instantly categorizes any message pasted into the web interface.
 
 NLP-Powered Engine: Utilizes sophisticated NLP techniques for text preprocessing and feature extraction.
